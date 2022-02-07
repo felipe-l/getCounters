@@ -4,6 +4,7 @@ import os
 
 
 def top_counters(soup):
+    #Gets the top most dangerous counters.
     stat_champs = []
     champ_winrates = []
     top_three = {}
